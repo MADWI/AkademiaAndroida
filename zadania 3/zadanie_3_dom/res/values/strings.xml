@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">zadanie_3_dom</string>
+    <string name="btnSecondActivityTitle">Druga aktywność</string>
+    <string name="titleMainActivity">Zadanie 3 dom</string>
+    <string name="btnFirstActivityTitle">Pierwsza aktywność</string>
+    <string name="btnRequestAnswer">Żądaj odpowiedzi</string>
+    <string name="emptyRequestInfo">Odpowiedź pusta</string>
+    <string name="btnReplyTitle">Odpowiedz</string>
+
+</resources>

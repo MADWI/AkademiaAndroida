@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="D:\Programy\AndroidStudio\PROJECTS\zadanie_7\zadanie_7\src\main\assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="D:\Programy\AndroidStudio\PROJECTS\zadanie_7\zadanie_7\src\debug\assets" />
+    </dataSet>
+
+</merger>

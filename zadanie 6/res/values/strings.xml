@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">zadanie_6</string>
+    <string name="btn_title_save_shared_pref">Zapisz do SharedPreferences</string>
+    <string name="btn_title_clear_shared_pref">Wyczyść SharedPreferences</string>
+    <string name="btn_title_add_to_database">Dodaj do bazy</string>
+    <string name="btn_title_read_from_shared_pref">Odczytaj z SharedPreferences</string>
+    <string name="btn_title_read_from_xml">Odczytaj z pliku XML</string>
+    <string name="btn_title_read_from_database">Odczytaj z bazy</string>
+
+</resources>

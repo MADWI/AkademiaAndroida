@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">zadanie_4</string>
+    <string name="btnSecondActivityTitle">Druga aktywność</string>
+    <string name="titleMainActivity">Zadanie 4</string>
+    <string name="btnFirstActivityTitle">Pierwsza aktywność</string>
+
+</resources>

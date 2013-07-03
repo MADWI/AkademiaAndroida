@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<people>
+    <person>
+        <name>Jan Kowalski</name>
+        <age>32</age>
+    </person>
+    <person>
+        <name>Katarzyna Nowak</name>
+        <age>30</age>
+    </person>
+    
+    <person>
+        <name>Sebastian Nowak</name>
+        <age>22</age>
+    </person>
+</people>

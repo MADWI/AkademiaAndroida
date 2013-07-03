@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AkademiaAndroida_MAD_2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="btn1">Pierwszy</string>
+	<string name="btn2">Drugi</string>
+	<string name="btn3">Trzeci</string>
+	<string name="btn4">Czwarty</string>
+</resources>

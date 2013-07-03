@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AkademiaAndroida_MAD_1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="button">Kill me just right now !</string>
+    <string name="button2">Toast</string>
+
+</resources>

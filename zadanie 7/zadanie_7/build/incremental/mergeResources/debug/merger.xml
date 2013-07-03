@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="D:\Programy\AndroidStudio\PROJECTS\zadanie_7\zadanie_7\src\main\res" >
+            <file
+                name="ic_launcher"
+                path="D:\Programy\AndroidStudio\PROJECTS\zadanie_7\zadanie_7\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="D:\Programy\AndroidStudio\PROJECTS\zadanie_7\zadanie_7\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="D:\Programy\AndroidStudio\PROJECTS\zadanie_7\zadanie_7\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="D:\Programy\AndroidStudio\PROJECTS\zadanie_7\zadanie_7\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_downloader"
+                path="D:\Programy\AndroidStudio\PROJECTS\zadanie_7\zadanie_7\src\main\res\layout\activity_downloader.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="downloader"
+                path="D:\Programy\AndroidStudio\PROJECTS\zadanie_7\zadanie_7\src\main\res\menu\downloader.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="D:\Programy\AndroidStudio\PROJECTS\zadanie_7\zadanie_7\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="D:\Programy\AndroidStudio\PROJECTS\zadanie_7\zadanie_7\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="action_settings" ></string>
+                <string name="button_label" >Pobierz
+                </string>
+                <string name="app_name" >zadanie_7
+                </string>
+                <string name="label" >Pobrany obrazek:
+                </string>
+            </file>
+            <file
+                path="D:\Programy\AndroidStudio\PROJECTS\zadanie_7\zadanie_7\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="D:\Programy\AndroidStudio\PROJECTS\zadanie_7\zadanie_7\src\main\res\values-sw600dp\dimens.xml"
+                qualifiers="sw600dp" />
+            <file
+                path="D:\Programy\AndroidStudio\PROJECTS\zadanie_7\zadanie_7\src\main\res\values-sw720dp-land\dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+        </source>
+        <source path="D:\Programy\AndroidStudio\PROJECTS\zadanie_7\zadanie_7\build\res\rs\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="D:\Programy\AndroidStudio\PROJECTS\zadanie_7\zadanie_7\src\debug\res" />
+    </dataSet>
+
+</merger>
